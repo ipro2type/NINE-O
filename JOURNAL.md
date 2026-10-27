@@ -18,7 +18,7 @@ So I started expanding it into a proper desktop assistant/control device. I imag
 
 At this point, my biggest problem was: I had never designed a PCB before.
 
-**Total time spent: prolly an hour or two of just thinking and browsing looking for ideas...**
+**Total time spent: 1hr 25 mins (**looked at other submissions and projects online for inspiration**)
 
 *(no picture to add)*
 
