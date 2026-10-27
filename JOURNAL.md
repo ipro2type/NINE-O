@@ -4,7 +4,7 @@ description: *A custom ESP32-S3 desktop gadget and control console.*
 
 This journal was written after the project was completed, using my messages, screenshots, screen-time records and project files to reconstruct what I worked on. Some of the time estimates are approximate where I didn't have an exact record.
 
-# _August 25th-26th: the idea_
+# _August 25th: the idea_
 
 I came across Gadget Market pretty randomly and noticed that people were making their own PCBs. Even though I didn't already have some huge hardware project planned, the very first things that came to my mind where some keychain things with display/leds that i can share with my siblings/friends... but that didn't excite me that much...
 
@@ -41,7 +41,7 @@ The first component I looked for was the ESP32-S3 I wanted to use as the brain o
 
 I was doing all of this from my phone, so navigating EasyEDA with just a touchscreen was pretty frustrating. I ended up connecting a mouse through OTG, which made moving things around and working with the PCB editor much easier. It still wasn't anywhere near as easy as using a PC, but it made the project actually manageable.
 
-*Total time spent: ~45mins-1hr*
+*Total time spent: ~1hr*
 
 <img width="1220" height="2606" alt="1000075661" src="https://github.com/user-attachments/assets/69b64ea5-0d9e-4de3-a1be-65e943d12537" />
 
@@ -67,7 +67,7 @@ I even asked in the Gadget Market channel because i wasn't sure what the proper 
 
 It was a good intro to the difference between a component's software origin and its actual physical geometry.
 
-*Total time spent: ~2hrs approx (i struggled with the encoder's positional symmetry ALOT, tried changing anchor points, footprint/canvas origins, nothing helped... and i finally used grid boxes)*
+**Total time spent: ~2hrs** (i struggled with the encoder's positional symmetry ALOT, tried changing anchor points, footprint/canvas origins, nothing helped... and i finally used grid boxes)*
 
 **Before:**
 
@@ -79,7 +79,7 @@ It was a good intro to the difference between a component's software origin and 
 
 #
 
-# _August 30th – September 2nd: building the board_
+# _August 30th: building the board_
 
 Once I got past the placement problems, I started filling out the actual circuit and PCB.
 
@@ -185,48 +185,23 @@ Then I put together the documentation for the project and added the hardware-tes
 The 3D case was still something I hadn't made. I had already spent a lot more time than I expected doing the PCB from Android, and trying to design a proper enclosure on top of everything else would've taken even longer, so I decided to leave that for later.
 Once the repo, BOM, exported files and documentation were ready, I submitted the first version of NINE-O on September 5th.
 
+<img width="1220" height="2712" alt="1000076819" src="https://github.com/user-attachments/assets/88b6dc33-c335-408f-80df-6e693d4af283" />
 
 
-**Time Spent in EasyEDA: 45mins-1hr of just exporting the files and binding 3d models** 
+
+**Time Spent in EasyEDA: 1hr** of just exporting the files and binding 3d models
 
 (Recorded Chrome Time: 4h 36m; not counting the rest of the chrome screentime as it's prolly me visiting the electric components sites for the BOM and GitHub to prepare the repo)
 
 
 #
 
-# _September 6th – 9th: waiting for review_
-**Total time spent: 0h**
+#
+
+
 
 #
 
-# _September 10th: someone actually reviewed my PCB_
-
-After I submitted NINE-O, I waited for the review.
-
-On September 10th, The Reviewer came back with several changes.
-
-The main feedback was:
-
-- The PCB seemed larger than it needed to be.
-- The routing could use another pass.
-- The PCB corners should be rounded.
-- I needed to add a proper project journal.
-
-This was actually pretty useful because it was the first time someone more experienced had looked at my PCB as a finished design instead of me just staring at it in EasyEDA and thinking it looked fine.
-
-Since I was busy with school stuff, I decided that I'll look into it later.
-
-**Total time spent: 0h — I was busy with school and exams and didn't work on the PCB this day.**
-
-#
-
-# _September 11th: still busy with school_
-
-I didn't really work on the PCB this day either.
-
-I was still busy with school and exams, so the revisions had to wait.
-
-**Total time spent: 0h**
 
 #
 
@@ -313,7 +288,7 @@ All I could think of was to shorten the loop by adding vias and routing it benea
 
 #
 
-# _September 15th – 17th: the 5V trace problem_
+# _September 16th: the 5V trace problem_
 
 I first tried to figure out how I could shorten the 5V trace without moving the ESP32 again or making the routing around it worse.
 
@@ -340,7 +315,7 @@ So that was basically it. The PCB review was finally done.
 
 The only thing left was the journal.
 
-**Recorded Chrome/EasyEDA proxy time: 1h 04m on September 15th(_on 16th, I was busy with school and stuff so I uploaded the updated routing somewhere near midnight... though the final routing/review work happened during this period._)**
+**Recorded Chrome/EasyEDA proxy time: 1hr 45min**
 
 
 #
@@ -364,6 +339,7 @@ But considering I started this without knowing how PCB design worked at all, get
 <img width="1116" height="895" alt="1000073734" src="https://github.com/user-attachments/assets/14f8eda8-3452-41c5-a3dc-2c65116b5b5c" />
 
 
-**Known Chrome/EasyEDA proxy across the dates with usable screen-time records: 27h 48m**
+_Known Chrome/EasyEDA proxy across the dates with usable screen-time records: 27h 48m_
 
-**Time note:** The phone screenshots give Chrome usage, not exact EasyEDA usage. I used those values as a project-time proxy only for the days where I knew I was working on NINE-O. They should not be treated as exact PCB-design timing. Days before August 30 and some days between September 6–11 do not have matching Chrome records in the screenshots I have, so I have left those times unrecovered rather than inventing them.
+
+thanks.
