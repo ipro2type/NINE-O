@@ -20,7 +20,8 @@ At this point, my biggest problem was: I had never designed a PCB before.
 
 **Total time spent: 1hr 25 mins (**looked at other submissions and projects online for inspiration**)
 
-*(no picture to add)*
+<img width="1220" height="2712" alt="1000088308" src="https://github.com/user-attachments/assets/6f6043ba-02f5-4e39-8f58-5be7ab5e95b9" />
+
 
 #
 
