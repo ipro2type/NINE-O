@@ -97,7 +97,7 @@ I was also working out the physical layout: where the display would sit, where t
 
 By August 31 I had most of the schematic done and the PCB was coming along, but routing was still left. I ended up asking for an extension because doing all of this from Android was taking much longer than I expected.
 
-**Total recorded proxy time: 1h 29m**
+**Total time spent: 1h 29m**
 
 <img width="1220" height="2712" alt="1000070997" src="https://github.com/user-attachments/assets/238f14da-cb31-49e6-9ba9-b1904fea1c7b" />
 
@@ -119,7 +119,7 @@ Also discovered about Ground pours which will reduce the hassle of routing GND p
 
 After that I just kept routing, moving components around whenever a route was getting unnecessarily long or messy and trying to figure out what actually makes a PCB layout good.
 
-**Recorded Chrome/EasyEDA proxy time: 5h 06m**
+**Total time spent: 5h 06m**
 
 <img width="1220" height="2583" alt="1000076782" src="https://github.com/user-attachments/assets/7a0cae25-2233-4ce1-ad72-c36247f42d14" />
 Ik some people can easily make clean routes with this setup too but I couldn't :p
@@ -171,7 +171,7 @@ what I had by the end of the day:
 
 Next step were, setting up The repo, BOM, getting the files exported from EasyEDA, and then finally submitting on gadget-market!
 
-**Recorded Chrome/EasyEDA proxy time: 9h 38m**
+**Total Time spent: 9h 38m**
 
 
 #
@@ -189,7 +189,7 @@ Once the repo, BOM, exported files and documentation were ready, I submitted the
 
 
 
-**Time Spent in EasyEDA: 1hr** of just exporting the files and binding 3d models
+**Total Time Spent: 1hr** of just exporting the files and binding 3d models
 
 (Recorded Chrome Time: 4h 36m; not counting the rest of the chrome screentime as it's prolly me visiting the electric components sites for the BOM and GitHub to prepare the repo)
 
@@ -230,7 +230,7 @@ Rebuilt the copper pours and the DRC was clean again!
 
 
 
-**Recorded Chrome/EasyEDA proxy time: 1h 52m**
+**Total Time spent: 1h 52m**
 
 
 #
@@ -243,7 +243,7 @@ I kept trying to change the traces and moving things around whenever I found a r
 
 Doing this on a phone was still pretty annoying, especially when I needed to make really small changes to traces or component positions. But at this point I was a lot more comfortable with EasyEDA than I was when I started.
 
-**Recorded Chrome/EasyEDA proxy time: 34m**
+**Total Time Spent: 34m**
 
 <img width="1116" height="895" alt="1000073734" src="https://github.com/user-attachments/assets/c2d6fe24-f9d6-482f-b889-05e6feb6a816" />
 
@@ -282,7 +282,7 @@ All I could think of was to shorten the loop by adding vias and routing it benea
 
 <img width="845" height="790" alt="1000074398" src="https://github.com/user-attachments/assets/a55912cf-933a-4814-bda2-e2fd9315d76f" />
 
-**Recorded Chrome/EasyEDA proxy time: 3h 29m**
+**Total Time Spent: 3h 29m**
 
 
 
@@ -315,7 +315,7 @@ So that was basically it. The PCB review was finally done.
 
 The only thing left was the journal.
 
-**Recorded Chrome/EasyEDA proxy time: 1hr 45min**
+**Total Time Spent: 1hr 45min**
 
 
 #
