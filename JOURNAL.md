@@ -318,7 +318,8 @@ The only thing left was the journal.
 **Total Time Spent: 1hr 45min**
 
 
-#
+
+
 
 NINE-O ended up as a small ESP32-S3 desktop gadget and control console.
 
