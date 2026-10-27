@@ -18,7 +18,7 @@ So I started expanding it into a proper desktop assistant/control device. I imag
 
 At this point, my biggest problem was: I had never designed a PCB before.
 
-**Total time spent: 1hr 25 mins (**looked at other submissions and projects online for inspiration**)
+**Total time spent: 1hr 25 mins**(looked at other submissions and projects online for inspiration)
 
 <img width="1220" height="2712" alt="1000088308" src="https://github.com/user-attachments/assets/6f6043ba-02f5-4e39-8f58-5be7ab5e95b9" />
 
@@ -41,7 +41,7 @@ The first component I looked for was the ESP32-S3 I wanted to use as the brain o
 
 I was doing all of this from my phone, so navigating EasyEDA with just a touchscreen was pretty frustrating. I ended up connecting a mouse through OTG, which made moving things around and working with the PCB editor much easier. It still wasn't anywhere near as easy as using a PC, but it made the project actually manageable.
 
-*Total time spent: ~1hr*
+**Total time spent: ~1hr**
 
 <img width="1220" height="2606" alt="1000075661" src="https://github.com/user-attachments/assets/69b64ea5-0d9e-4de3-a1be-65e943d12537" />
 
