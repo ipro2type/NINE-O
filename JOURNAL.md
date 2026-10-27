@@ -361,6 +361,9 @@ There are definitely things I would do differently if I started another PCB, esp
 
 But considering I started this without knowing how PCB design worked at all, getting from an idea on my phone to an actual PCB that went through review was already a pretty big learning experience.
 
+<img width="1116" height="895" alt="1000073734" src="https://github.com/user-attachments/assets/14f8eda8-3452-41c5-a3dc-2c65116b5b5c" />
+
+
 **Known Chrome/EasyEDA proxy across the dates with usable screen-time records: 27h 48m**
 
 **Time note:** The phone screenshots give Chrome usage, not exact EasyEDA usage. I used those values as a project-time proxy only for the days where I knew I was working on NINE-O. They should not be treated as exact PCB-design timing. Days before August 30 and some days between September 6–11 do not have matching Chrome records in the screenshots I have, so I have left those times unrecovered rather than inventing them.
