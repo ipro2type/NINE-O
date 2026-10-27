@@ -320,8 +320,6 @@ The only thing left was the journal.
 
 #
 
-# _What I ended up building_
-
 NINE-O ended up as a small ESP32-S3 desktop gadget and control console.
 
 The hardware has a 2.4" colour display, two rotary encoders with push buttons and a buzzer. The idea is for the device to eventually have different modes for things like weather, clocks, timers, media controls, GIFs, macro-pad functions, crypto information and even a little digital pet.
@@ -339,7 +337,7 @@ But considering I started this without knowing how PCB design worked at all, get
 <img width="1116" height="895" alt="1000073734" src="https://github.com/user-attachments/assets/14f8eda8-3452-41c5-a3dc-2c65116b5b5c" />
 
 
-_Known Chrome/EasyEDA proxy across the dates with usable screen-time records: 27h 48m_
+_Known Chrome/EasyEDA across the dates with screen-time records: 27h 48m_
 
 
 thanks.
