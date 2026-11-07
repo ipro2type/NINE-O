@@ -97,9 +97,6 @@ Here's everything required to build NINE-O, along with the suppliers and estimat
 
 **Total estimated cost: ₹4,112.95**
 
-The PCB price represents the five-board order, not the cost of a single board. Shipping is listed separately.
-
-*Prices are based on the BOM at the time of preparation and may change.*
 
 A downloadable CSV version of the BOM is also available: [NINE-O_BOM.csv](Hardware/NINE-O_BOM.csv).
 
